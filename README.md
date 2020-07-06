@@ -12,5 +12,5 @@ MonsterGame is a grid-based 2D game in which various monster characters randomly
 
 ## Authors
 
-Christian Muniz
+Christian Muniz  
 Monica Neivandt
